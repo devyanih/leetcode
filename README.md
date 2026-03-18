@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devyanih/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/devyanih/leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/devyanih/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/devyanih/leetcode/tree/master/0075-sort-colors) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/devyanih/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
