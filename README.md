@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/devyanih/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/devyanih/leetcode/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/devyanih/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/devyanih/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
