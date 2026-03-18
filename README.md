@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanih/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devyanih/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/devyanih/leetcode/tree/master/0151-reverse-words-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devyanih/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devyanih/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 <!---LeetCode Topics End-->
