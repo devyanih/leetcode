@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devyanih/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devyanih/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,8 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devyanih/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devyanih/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/devyanih/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/devyanih/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
