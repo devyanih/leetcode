@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devyanih/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devyanih/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devyanih/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/devyanih/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devyanih/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/devyanih/leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/devyanih/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [2573-find-the-string-with-lcp](https://github.com/devyanih/leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/devyanih/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devyanih/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Matrix
 |  |
 | ------- |
