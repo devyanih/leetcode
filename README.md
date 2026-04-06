@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/devyanih/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanih/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/devyanih/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devyanih/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devyanih/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/devyanih/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/devyanih/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/devyanih/leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2751-robot-collisions](https://github.com/devyanih/leetcode/tree/master/2751-robot-collisions) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devyanih/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/devyanih/leetcode/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/devyanih/leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/devyanih/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
