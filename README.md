@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/devyanih/leetcode/tree/master/0169-majority-element) |
 | [0874-walking-robot-simulation](https://github.com/devyanih/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devyanih/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/devyanih/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devyanih/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2573-find-the-string-with-lcp](https://github.com/devyanih/leetcode/tree/master/2573-find-the-string-with-lcp) |
