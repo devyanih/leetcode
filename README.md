@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/devyanih/leetcode/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devyanih/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/devyanih/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/devyanih/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devyanih/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2463-minimum-total-distance-traveled](https://github.com/devyanih/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/devyanih/leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/devyanih/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/devyanih/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/devyanih/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/devyanih/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3643-flip-square-submatrix-vertically](https://github.com/devyanih/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/devyanih/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/devyanih/leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/devyanih/leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 <!---LeetCode Topics End-->
