@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/devyanih/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/devyanih/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/devyanih/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/devyanih/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/devyanih/leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/devyanih/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devyanih/leetcode/tree/master/0048-rotate-image) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devyanih/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/devyanih/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/devyanih/leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/devyanih/leetcode/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/devyanih/leetcode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/devyanih/leetcode/tree/master/0788-rotated-digits) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/devyanih/leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
