@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/devyanih/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/devyanih/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/devyanih/leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/devyanih/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/devyanih/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/devyanih/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/devyanih/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
